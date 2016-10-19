@@ -62,7 +62,7 @@
 
 ---
 
-#### Or I find masochist pleasure in following microsoft's alpha release channel
+#### or I find masochist pleasure in following microsoft's alpha release channel
 
 
 <img style="width: 600px" src="images/tennisballs.gif" alt="tennis balls" title="Micorosoft's alpha channel"/>
@@ -72,10 +72,32 @@ _It feels like there are a lot of developers at Microsoft_
 
 ***
 
-### What are the problems
+### what are the problems
 
 - Speed of evolution
 - Maturity of surrounding ecosystem / tooling
 - Anxiety of community to adopt / 3d party libs
 
+
+***
+
+### my crystal ball tells me....
+
+![crystal_ball](images/crystal_ball.jpeg) <!-- .element: style="width: 200px" -->
+
+---
+
+### dotnet core will
+
+- strengthen Microsoft's efforts to stay relevant in the server market, but not neccessarily using windows
+- will be in a good place to integrate with hypervisors. Unikernels are a _thing_
+- be adopted by companies using windows technologies as their current development platform
+
+---
+
+### dotnet core will not
+
+- become a relevant technology choice for companies currently invested in languages running on unix platforms
+- replace most windows deployments
+- become a _hipster_ web development tool
 
